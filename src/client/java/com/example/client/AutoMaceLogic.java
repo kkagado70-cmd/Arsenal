@@ -1,4 +1,4 @@
-package com.example.automace;
+package com.example;
 
 import net.minecraft.client.MinecraftClient;
 import net.minecraft.world.InteractionHand;
