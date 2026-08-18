@@ -1,6 +1,6 @@
-package com.example.automace.mixin;
+package com.example.mixin;
 
-import com.example.automace.AutoMaceLogic;
+import com.example.AutoMaceLogic;
 import net.minecraft.client.MinecraftClient;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
