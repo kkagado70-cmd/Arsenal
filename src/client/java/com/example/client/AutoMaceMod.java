@@ -1,4 +1,4 @@
-package com.example.automace;
+package com.example;
 
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.event.lifecycle.v1.ClientTickEvents;
@@ -23,7 +23,7 @@ public class AutoMaceMod implements ModInitializer {
         guiKeyBinding = KeyBindingHelper.registerKeyBinding(new KeyBinding(
             "key.automace.gui",
             InputUtil.Type.KEYSYM,
-            GLFW.GLFW_KEY_M,
+            GLFW.GLFW_KEY_O,
             "category.automace.general"
         ));
 
