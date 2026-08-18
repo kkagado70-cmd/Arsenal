@@ -1,4 +1,4 @@
-package com.example.automace;
+package com.example;
 
 import net.minecraft.client.gui.DrawContext;
 import net.minecraft.client.gui.screen.Screen;
